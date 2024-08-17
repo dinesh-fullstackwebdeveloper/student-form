@@ -4,7 +4,7 @@
 
 ## 🌐 Live Demo
 
-You can view and interact with the live demo of the Student Form project [here](https://66baef7a367f13ac262077a1--dinesh-forms-data-display-in-table.netlify.app/).
+You can view and interact with the live demo of the Student Form project [Here](https://66baef7a367f13ac262077a1--dinesh-forms-data-display-in-table.netlify.app/).
 
 ## 🗂 Project Structure
 
